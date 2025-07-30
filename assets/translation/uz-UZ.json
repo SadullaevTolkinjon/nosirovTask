@@ -1,0 +1,21 @@
+{
+  "en_lang": "English Language",
+  "ru_lang": "Русский",
+  "uz_lang": "O'zbekcha",
+  "uz_cyrl": "Узбек тили",
+  "choose_lang": "Tilni tanlang",
+  "choose_app_language": "Ilova tilini tanlang",
+  "password": "Parol",
+  "continue": "Davom etish",
+  "location_title": "Hududni tanlash",
+  "search": "Qidirish",
+  "choose_location": "Hududni tanlang",
+  "no_regions_found": "Hududlar topilmadi",
+  "allow_access_location_text": "Geolokatsiyaga kirishga ruxsat bering",
+  "allow_access_location_btn": "Ruxsat berish",
+  "allow_access_location_btn_2": "Manzilni o'rnating",
+  "allow_access_location_text_2": "Biz sizning atrofida qiziqarli takliflar va qabul-berish nuqtalarini ko'rsatishimiz mumkin",
+  "location_title": "Manzil",
+  "search": "Qidirish",
+  "choose_location": "Manzilni tanlang"
+}

@@ -1,0 +1,22 @@
+{
+  "en_lang": "English Language",
+  "ru_lang": "Русский",
+  "uz_lang": "O'zbekcha",
+  "uz_cyrl": "Узбек тили",
+  "choose_lang": "Выберите язык",
+  "choose_app_language": "Выберите язык приложения",
+  "password": "Пароль",
+  "enter": "Войти",
+  "continue": "Продолжить",
+  "location_title": "Выбор региона",
+  "search": "Поиск",
+  "choose_location": "Выберите регион",
+  "no_regions_found": "Регионы не найдены",
+  "allow_access_location_text": "Разрешите доступ к геопозиции",
+  "allow_access_location_btn": "Разрешить",
+  "allow_access_location_btn_2": "Указать местоположение",
+  "allow_access_location_text_2": "Так мы сможем показать интересные предложения и пункты выдачи-приёма рядом с вами",
+  "location_title": "Местоположение",
+  "search": "Поиск",
+  "choose_location": "Выберите местоположение"
+}
